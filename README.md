@@ -1,2 +1,4 @@
 # Kalkulacka
-My C# calculator
+**My C# calculator**
+
+Download only the .ZIP file
